@@ -1,0 +1,4696 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@ and %@ can only be %lld or %lld. Thanks to the strong link on %lld, one of them must be %lld – remove %lld from cells that see both." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "V polích %@ a %@ může být jen %lld nebo %lld. Díky silné vazbě čísla %lld musí v jednom z nich být %lld – odstraňte %lld z polí, která vidí obě."
+          }
+        }
+      }
+    },
+    "%@ can only hold %lld – every other number already appears in its row, column or box." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do pole %@ patří jen číslo %lld – všechna ostatní čísla už jsou v jeho řádku, sloupci nebo čtverci."
+          }
+        }
+      }
+    },
+    "%@ can only hold %lld – it's the only candidate left in this cell." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do pole %@ patří jen číslo %lld – je to jediný kandidát, který v něm zbyl."
+          }
+        }
+      }
+    },
+    "%lld clues entered" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld clue entered"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld clues entered"
+                }
+              }
+            }
+          }
+        },
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Zadáno %lld číslo"
+                }
+              },
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Zadána %lld čísla"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Zadáno %lld čísla"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Zadáno %lld čísel"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld from %@" : {
+      "comment" : "Elimination item in a hint: <digit> from <cell coordinate>.",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld z %@"
+          }
+        }
+      }
+    },
+    "%lld has only two possible cells in a row and in a column, and the two pairs meet in one box. So %@ or %@ must be %lld – remove it from cells that see both." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Číslo %lld má v jednom řádku i v jednom sloupci jen dvě možná pole a obě dvojice se setkávají v jednom čtverci. Proto v poli %@ nebo %@ musí být %lld – odstraňte ho z polí, která vidí obě."
+          }
+        }
+      }
+    },
+    "%lld highlighted cells contain a wrong number." : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "The highlighted cell contains a wrong number."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld highlighted cells contain a wrong number."
+                }
+              }
+            }
+          }
+        },
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Zvýrazněné pole obsahuje chybné číslo."
+                }
+              },
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld zvýrazněná pole obsahují chybná čísla."
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld zvýrazněného pole obsahuje chybná čísla."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld zvýrazněných polí obsahuje chybná čísla."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld in %@ is correct." : {
+      "comment" : "VoiceOver, after Reveal on a cell whose number was already right: <digit> in <cell coordinate> is correct.",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Číslo %lld v poli %@ je správně."
+          }
+        }
+      }
+    },
+    "%lld mistakes highlighted" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld mistake highlighted"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld mistakes highlighted"
+                }
+              }
+            }
+          }
+        },
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Zvýrazněna %lld chyba"
+                }
+              },
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Zvýrazněny %lld chyby"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Zvýrazněno %lld chyby"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Zvýrazněno %lld chyb"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld numbers removed." : {
+      "comment" : "VoiceOver, after a hint removed wrong numbers.",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Number removed."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld numbers removed."
+                }
+              }
+            }
+          }
+        },
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Číslo odstraněno."
+                }
+              },
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld čísla odstraněna."
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld čísla odstraněno."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld čísel odstraněno."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld of %lld" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld z %lld"
+          }
+        }
+      }
+    },
+    "%lld of %lld unlocked" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odemčeno %lld z %lld"
+          }
+        }
+      }
+    },
+    "%lld placed in %@." : {
+      "comment" : "VoiceOver, after a hint or Reveal: <digit> placed in <cell coordinate>.",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Číslo %lld zapsáno do pole %@."
+          }
+        }
+      }
+    },
+    "%lld remaining" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld remaining"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld remaining"
+                }
+              }
+            }
+          }
+        },
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Zbývá %lld"
+                }
+              },
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Zbývají %lld"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Zbývá %lld"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Zbývá %lld"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld solved" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyřešeno: %lld"
+          }
+        }
+      }
+    },
+    "%lld, given" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld, zadané číslo"
+          }
+        }
+      }
+    },
+    "%lld, given, repeated in its row, column or box" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld, zadané číslo, opakuje se v řádku, sloupci nebo čtverci"
+          }
+        }
+      }
+    },
+    "%lld, incorrect" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld, chybné číslo"
+          }
+        }
+      }
+    },
+    "%lld, repeated in its row, column or box" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld, opakuje se v řádku, sloupci nebo čtverci"
+          }
+        }
+      }
+    },
+    "%lld-day streak" : {
+      "localizations" : {
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Série: %lld den"
+                }
+              },
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Série: %lld dny"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Série: %lld dne"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Série: %lld dní"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "2-String Kite" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drak"
+          }
+        }
+      }
+    },
+    "A cell in which only one number is still possible." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pole, do kterého lze zapsat už jen jedno číslo."
+          }
+        }
+      }
+    },
+    "A chain of alternating strong and weak links on a single number." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Řetězec střídajících se silných a slabých vazeb jednoho čísla."
+          }
+        }
+      }
+    },
+    "A chain of two-candidate cells, each connected to the next by a shared number." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Řetězec polí se dvěma kandidáty, v němž každé pole sdílí jedno číslo s následujícím."
+          }
+        }
+      }
+    },
+    "A fresh puzzle every day. Keep your streak alive!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Každý den nové sudoku. Udržte svou sérii!"
+          }
+        }
+      }
+    },
+    "A gentle challenge that needs focus" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mírná výzva, která vyžaduje soustředění"
+          }
+        }
+      }
+    },
+    "A hint first points you in the right direction. Tap Show Me for the full explanation, then apply it." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nápověda vás nejdřív navede správným směrem. Klepnutím na Ukázat zobrazíte celé vysvětlení a pak ji můžete použít."
+          }
+        }
+      }
+    },
+    "A new puzzle awaits" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Čeká na vás nové sudoku"
+          }
+        }
+      }
+    },
+    "A new puzzle every day – the same for everyone. Difficulty rises from Monday to the weekend." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Každý den nové sudoku – stejné pro všechny. Obtížnost roste od pondělí do víkendu."
+          }
+        }
+      }
+    },
+    "A number limited to the same two columns in two rows forms a rectangle. It can be removed from the rest of those columns (or vice versa)." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Číslo, které může být ve dvou řádcích jen ve stejných dvou sloupcích, tvoří obdélník. Ze zbytku těchto sloupců ho lze odstranit (a obráceně)."
+          }
+        }
+      }
+    },
+    "A number that fits in only one cell of a row, column or box must go there." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Číslo, které se v řádku, sloupci nebo čtverci vejde jen do jednoho pole, patří právě tam."
+          }
+        }
+      }
+    },
+    "A pivot cell {x, y} sees two wings {x, z} and {y, z}. Cells that see both wings can't be z." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Středové pole {x, y} vidí dvě křídla {x, z} a {y, z}. Pole, která vidí obě křídla, nemohou obsahovat z."
+          }
+        }
+      }
+    },
+    "A proper sudoku needs at least 17 clues." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Správné sudoku potřebuje alespoň 17 zadaných čísel."
+          }
+        }
+      }
+    },
+    "A row and a column where a number has just two places, connected through one box." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Řádek a sloupec, ve kterých má číslo jen dvě možná místa, propojené přes jeden čtverec."
+          }
+        }
+      }
+    },
+    "Abandoned" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nedokončeno"
+          }
+        }
+      }
+    },
+    "Achievement unlocked" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odemčený úspěch"
+          }
+        }
+      }
+    },
+    "Achievements" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Úspěchy"
+          }
+        }
+      }
+    },
+    "Achievements unlocked" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odemčené úspěchy"
+          }
+        }
+      }
+    },
+    "Add more clues so the solution is unique." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Přidejte další čísla, aby bylo řešení jednoznačné."
+          }
+        }
+      }
+    },
+    "Advanced patterns like the X-Wing" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pokročilé vzory jako X-Wing"
+          }
+        }
+      }
+    },
+    "All" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vše"
+          }
+        }
+      }
+    },
+    "All notes cleared." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Všechny poznámky smazány."
+          }
+        }
+      }
+    },
+    "All your progress on this puzzle will be cleared." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veškerý postup v tomto sudoku bude smazán."
+          }
+        }
+      }
+    },
+    "All your progress on this puzzle will be cleared. The hints you've used still count." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veškerý postup v tomto sudoku bude smazán. Použité nápovědy se ale počítají dál."
+          }
+        }
+      }
+    },
+    "Appearance" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vzhled"
+          }
+        }
+      }
+    },
+    "Apply" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Použít"
+          }
+        }
+      }
+    },
+    "Auto Notes" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatické poznámky"
+          }
+        }
+      }
+    },
+    "Available with a hardware keyboard." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dostupné s hardwarovou klávesnicí."
+          }
+        }
+      }
+    },
+    "Average" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Průměr"
+          }
+        }
+      }
+    },
+    "Average %@" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Průměr %@"
+          }
+        }
+      }
+    },
+    "Average time" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Průměrný čas"
+          }
+        }
+      }
+    },
+    "Avoids four cells that could swap values, because a proper sudoku has only one solution." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyhýbá se čtveřici polí, která by si mohla prohodit čísla – správné sudoku má totiž jen jedno řešení."
+          }
+        }
+      }
+    },
+    "Back" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zpět"
+          }
+        }
+      }
+    },
+    "Back to Calendar" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zpět do kalendáře"
+          }
+        }
+      }
+    },
+    "Back to Home" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zpět domů"
+          }
+        }
+      }
+    },
+    "Best" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nejlepší"
+          }
+        }
+      }
+    },
+    "Best and average times only count puzzles solved without hints. Custom puzzles count towards neither these times nor streaks." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do nejlepších a průměrných časů se počítají jen sudoku vyřešená bez nápovědy. Vlastní sudoku se nepočítají do těchto časů ani do sérií."
+          }
+        }
+      }
+    },
+    "Best streak" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nejdelší série"
+          }
+        }
+      }
+    },
+    "Best time" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nejlepší čas"
+          }
+        }
+      }
+    },
+    "Blue" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modrá"
+          }
+        }
+      }
+    },
+    "Box %lld has only one empty cell left. The missing number is %lld." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ve čtverci %lld zbývá jediné prázdné pole. Chybí v něm číslo %lld."
+          }
+        }
+      }
+    },
+    "Box/Line Reduction" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Redukce řada–čtverec"
+          }
+        }
+      }
+    },
+    "Brilliant!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Úžasné!"
+          }
+        }
+      }
+    },
+    "BUG+1" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BUG+1"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zrušit"
+          }
+        }
+      }
+    },
+    "Candidates: %@" : {
+      "comment" : "VoiceOver value of a cell while a hint shows its candidates, e.g. \"Candidates: 2, 5, 7\".",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kandidáti: %@"
+          }
+        }
+      }
+    },
+    "Cell First" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nejdřív pole"
+          }
+        }
+      }
+    },
+    "Cells %@ in box %lld can only contain %@. These numbers can be removed from the other cells of the box." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pole %@ ve čtverci %lld mohou obsahovat jen čísla %@. Tato čísla lze odstranit z ostatních polí čtverce."
+          }
+        }
+      }
+    },
+    "Cells %@ in column %lld can only contain %@. These numbers can be removed from the other cells of the column." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pole %@ ve sloupci %lld mohou obsahovat jen čísla %@. Tato čísla lze odstranit z ostatních polí sloupce."
+          }
+        }
+      }
+    },
+    "Cells %@ in row %lld can only contain %@. These numbers can be removed from the other cells of the row." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pole %@ v řádku %lld mohou obsahovat jen čísla %@. Tato čísla lze odstranit z ostatních polí řádku."
+          }
+        }
+      }
+    },
+    "Cells joined by strong links of one number (its only two places in a row, column or box) are colored alternately. One color must be true, which reveals eliminations." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pole propojená silnými vazbami jednoho čísla (to má v řádku, sloupci nebo čtverci jen dvě místa) se střídavě obarví dvěma barvami. Jedna z barev musí být správná, a z toho plyne, co lze odstranit."
+          }
+        }
+      }
+    },
+    "Centurion" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stovkař"
+          }
+        }
+      }
+    },
+    "Chains and uniqueness – the ultimate test" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Řetězce a jednoznačnost – nejvyšší zkouška"
+          }
+        }
+      }
+    },
+    "Check Board" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zkontrolovat mřížku"
+          }
+        }
+      }
+    },
+    "Check the clues – this grid can't be solved." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zkontrolujte zadání – tuto mřížku nelze vyřešit."
+          }
+        }
+      }
+    },
+    "Check Your Notes" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zkontrolujte poznámky"
+          }
+        }
+      }
+    },
+    "Checking…" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kontrola…"
+          }
+        }
+      }
+    },
+    "Clear" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vymazat"
+          }
+        }
+      }
+    },
+    "Clear All Notes" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Smazat všechny poznámky"
+          }
+        }
+      }
+    },
+    "Close hint" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zavřít nápovědu"
+          }
+        }
+      }
+    },
+    "Close the hint" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zavřít nápovědu"
+          }
+        }
+      }
+    },
+    "Color" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barva"
+          }
+        }
+      }
+    },
+    "Column %lld has only one empty cell left. The missing number is %lld." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ve sloupci %lld zbývá jediné prázdné pole. Chybí v něm číslo %lld."
+          }
+        }
+      }
+    },
+    "Complete 30 daily challenges." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dokončete 30 denních výzev."
+          }
+        }
+      }
+    },
+    "Complete a daily challenge." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dokončete denní výzvu."
+          }
+        }
+      }
+    },
+    "Complete the daily challenge 7 days in a row." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dokončete denní výzvu 7 dní po sobě."
+          }
+        }
+      }
+    },
+    "Completed" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dokončeno"
+          }
+        }
+      }
+    },
+    "Continue" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pokračovat"
+          }
+        }
+      }
+    },
+    "Copy 81 characters: digits 1–9 for clues and 0 or a dot for empty cells." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zkopírujte 81 znaků: číslice 1–9 pro zadaná čísla a 0 nebo tečku pro prázdná pole."
+          }
+        }
+      }
+    },
+    "Couldn't read a puzzle" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sudoku se nepodařilo načíst"
+          }
+        }
+      }
+    },
+    "Creating your puzzle…" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Připravuje se sudoku…"
+          }
+        }
+      }
+    },
+    "Current streak" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktuální série"
+          }
+        }
+      }
+    },
+    "Custom" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vlastní"
+          }
+        }
+      }
+    },
+    "Custom Puzzle" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vlastní sudoku"
+          }
+        }
+      }
+    },
+    "Custom puzzles only count towards “Your Own Puzzle”." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vlastní sudoku se započítávají jen do úspěchu „Vlastní zadání“."
+          }
+        }
+      }
+    },
+    "Daily" : {
+      "comment" : "Caption above the difficulty in the game's info bar for daily challenges.",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Denní výzva"
+          }
+        }
+      }
+    },
+    "Daily Challenge" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Denní výzva"
+          }
+        }
+      }
+    },
+    "Daily challenge" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Denní výzva"
+          }
+        }
+      }
+    },
+    "Daily challenge solved" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Denní výzva splněna"
+          }
+        }
+      }
+    },
+    "Daily Debut" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Denní premiéra"
+          }
+        }
+      }
+    },
+    "Daily streak" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Denní série"
+          }
+        }
+      }
+    },
+    "Dark" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tmavý"
+          }
+        }
+      }
+    },
+    "Data" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Data"
+          }
+        }
+      }
+    },
+    "Dedicated" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vytrvalec"
+          }
+        }
+      }
+    },
+    "Difficulty" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obtížnost"
+          }
+        }
+      }
+    },
+    "Difficulty Levels" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Úrovně obtížnosti"
+          }
+        }
+      }
+    },
+    "Display" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zobrazení"
+          }
+        }
+      }
+    },
+    "Done" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hotovo"
+          }
+        }
+      }
+    },
+    "Early Bird" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ranní ptáče"
+          }
+        }
+      }
+    },
+    "Easy" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Snadná"
+          }
+        }
+      }
+    },
+    "Empty" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prázdné"
+          }
+        }
+      }
+    },
+    "Endless puzzles" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sudoku bez konce"
+          }
+        }
+      }
+    },
+    "Enter a number" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zapsat číslo"
+          }
+        }
+      }
+    },
+    "Enter a puzzle from a newspaper or book" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zadejte sudoku z novin nebo z knihy"
+          }
+        }
+      }
+    },
+    "Enter the clues" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zadejte čísla"
+          }
+        }
+      }
+    },
+    "Enter your own" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zadejte vlastní"
+          }
+        }
+      }
+    },
+    "Enters the number in the selected cell" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zapíše číslo do vybraného pole"
+          }
+        }
+      }
+    },
+    "Erase" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Smazat"
+          }
+        }
+      }
+    },
+    "Every cell is filled" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Všechna pole jsou vyplněná"
+          }
+        }
+      }
+    },
+    "Every hint explains the logic, from hidden singles to X-Wings and chains." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Každá nápověda vysvětlí logiku – od jediného místa až po X-Wing a řetězce."
+          }
+        }
+      }
+    },
+    "Every other unsolved cell has exactly two candidates. If %@ weren't %lld, the puzzle would have more than one solution – so it must be %lld." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Všechna ostatní nevyřešená pole mají přesně dva kandidáty. Kdyby v poli %@ nebylo %lld, mělo by sudoku víc než jedno řešení – musí tam tedy být %lld."
+          }
+        }
+      }
+    },
+    "Every puzzle has exactly one solution, and it can always be found with logic – no guessing needed." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Každé sudoku má právě jedno řešení a vždy se k němu dá dojít logikou – bez hádání."
+          }
+        }
+      }
+    },
+    "Exactly one solution. Ready to play!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Právě jedno řešení. Můžete hrát!"
+          }
+        }
+      }
+    },
+    "Excellent!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Výborně!"
+          }
+        }
+      }
+    },
+    "Expert" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expertní"
+          }
+        }
+      }
+    },
+    "Expert (achievement)" : {
+      "comment" : "Achievement title: a person who is an expert",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Expert"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expert"
+          }
+        }
+      }
+    },
+    "Fill the grid so that every row, every column and every 3×3 box contains each number from 1 to 9 exactly once." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyplňte mřížku tak, aby každý řádek, každý sloupec a každý čtverec 3×3 obsahoval všechna čísla od 1 do 9 právě jednou."
+          }
+        }
+      }
+    },
+    "Finish a puzzle and your statistics will appear here." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dokončete sudoku a objeví se tu vaše statistiky."
+          }
+        }
+      }
+    },
+    "First Victory" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "První vítězství"
+          }
+        }
+      }
+    },
+    "Five difficulty levels. Puzzles are made right on your device, no internet needed." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pět úrovní obtížnosti. Sudoku se vytvářejí přímo ve vašem zařízení, bez internetu."
+          }
+        }
+      }
+    },
+    "Fix Notes" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opravit poznámky"
+          }
+        }
+      }
+    },
+    "Fix the highlighted cells." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opravte zvýrazněná pole."
+          }
+        }
+      }
+    },
+    "Fix the notes in cell %@." : {
+      "comment" : "Hint about notes missing the correct number; the argument is a cell coordinate such as R3C1.",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opravte poznámky v poli %@."
+          }
+        }
+      }
+    },
+    "Fix the notes in cells %@." : {
+      "comment" : "Hint about notes missing the correct number; the argument lists cell coordinates such as \"R3C1, R5C2\".",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opravte poznámky v polích %@."
+          }
+        }
+      }
+    },
+    "Flawless" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bez chybičky"
+          }
+        }
+      }
+    },
+    "Focus on the number %lld." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaměřte se na číslo %lld."
+          }
+        }
+      }
+    },
+    "Follow the chain of two-candidate cells from %@ to %@: whatever the first cell turns out to be, one of the ends must be %lld. Remove %lld from cells that see both ends." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sledujte řetězec polí se dvěma kandidáty od %@ do %@: ať bude v prvním poli kterýkoli z jeho kandidátů, na jednom z konců musí být %lld. Odstraňte %lld z polí, která vidí oba konce."
+          }
+        }
+      }
+    },
+    "Following the alternating links of %lld shows that %@ or %@ must be %lld. Remove it from cells that see both ends." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ze střídajících se vazeb čísla %lld plyne, že v poli %@ nebo %@ musí být %lld. Odstraňte ho z polí, která vidí oba konce."
+          }
+        }
+      }
+    },
+    "Four cells of a row, column or box that together contain only four numbers." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Čtyři pole v řádku, sloupci nebo čtverci, která dohromady obsahují jen čtyři čísla."
+          }
+        }
+      }
+    },
+    "Four numbers that fit only in the same four cells of a row, column or box." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Čtyři čísla, která se v řádku, sloupci nebo čtverci vejdou jen do stejných čtyř polí."
+          }
+        }
+      }
+    },
+    "Full House" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poslední volné pole"
+          }
+        }
+      }
+    },
+    "Game" : {
+      "comment" : "Accessibility label of the x axis in the solve-time chart.",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hra"
+          }
+        }
+      }
+    },
+    "Game history and best times will be deleted. Achievements stay unlocked." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historie her a nejlepší časy budou smazány. Úspěchy zůstanou odemčené."
+          }
+        }
+      }
+    },
+    "Game Over" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konec hry"
+          }
+        }
+      }
+    },
+    "Gameplay" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hra"
+          }
+        }
+      }
+    },
+    "Games played" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odehrané hry"
+          }
+        }
+      }
+    },
+    "Games won" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyhrané hry"
+          }
+        }
+      }
+    },
+    "Grandmaster" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Velmistr"
+          }
+        }
+      }
+    },
+    "Graphite" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grafitová"
+          }
+        }
+      }
+    },
+    "Great Job!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skvělá práce!"
+          }
+        }
+      }
+    },
+    "Green" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zelená"
+          }
+        }
+      }
+    },
+    "Haptics" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haptika"
+          }
+        }
+      }
+    },
+    "Hard" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Těžká"
+          }
+        }
+      }
+    },
+    "Harder than the hint engine can explain." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Těžší, než dokáže nápověda vysvětlit."
+          }
+        }
+      }
+    },
+    "Hidden" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skryté"
+          }
+        }
+      }
+    },
+    "Hidden Pair" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skrytá dvojice"
+          }
+        }
+      }
+    },
+    "Hidden Quad" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skrytá čtveřice"
+          }
+        }
+      }
+    },
+    "Hidden Single" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jediné místo"
+          }
+        }
+      }
+    },
+    "Hidden Triple" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skrytá trojice"
+          }
+        }
+      }
+    },
+    "Hide completed numbers" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skrýt dokončená čísla"
+          }
+        }
+      }
+    },
+    "Highlighted by the hint" : {
+      "comment" : "VoiceOver: the cell is one of those a hint highlights.",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zvýrazněno nápovědou"
+          }
+        }
+      }
+    },
+    "Highlighting" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zvýrazňování"
+          }
+        }
+      }
+    },
+    "Hint" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nápověda"
+          }
+        }
+      }
+    },
+    "Hints" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nápovědy"
+          }
+        }
+      }
+    },
+    "Hints that teach" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nápovědy, které učí"
+          }
+        }
+      }
+    },
+    "Home" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Domů"
+          }
+        }
+      }
+    },
+    "How to Play" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jak hrát"
+          }
+        }
+      }
+    },
+    "Identical numbers" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stejná čísla"
+          }
+        }
+      }
+    },
+    "If %@ were %lld or %lld, the four highlighted cells could swap their numbers and the puzzle would have two solutions. So %@ can be neither." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kdyby v poli %@ bylo %lld nebo %lld, mohla by si čtyři zvýrazněná pole prohodit čísla a sudoku by mělo dvě řešení. V poli %@ proto nemůže být ani jedno z těchto čísel."
+          }
+        }
+      }
+    },
+    "If a number inside a box can only be in one row or column, it can be removed from the rest of that line." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pokud může být číslo ve čtverci jen v jednom řádku nebo sloupci, lze ho odstranit ze zbytku této řady."
+          }
+        }
+      }
+    },
+    "If a number inside a row or column can only be in one box, it can be removed from the rest of that box." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pokud může být číslo v řádku nebo sloupci jen v jednom čtverci, lze ho odstranit ze zbytku tohoto čtverce."
+          }
+        }
+      }
+    },
+    "In box %lld, the number %lld can only be in column %lld, so it can be removed from the rest of that column." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ve čtverci %lld může být číslo %lld jen ve sloupci %lld, proto ho lze odstranit ze zbytku tohoto sloupce."
+          }
+        }
+      }
+    },
+    "In box %lld, the number %lld can only be in row %lld, so it can be removed from the rest of that row." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ve čtverci %lld může být číslo %lld jen v řádku %lld, proto ho lze odstranit ze zbytku tohoto řádku."
+          }
+        }
+      }
+    },
+    "In box %lld, the number %lld fits in only one cell." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ve čtverci %lld se číslo %lld vejde jen do jednoho pole."
+          }
+        }
+      }
+    },
+    "In box %lld, the numbers %@ can only go in cells %@. All other candidates can be removed from these cells." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ve čtverci %lld mohou být čísla %@ jen v polích %@. Ostatní kandidáty z těchto polí lze odstranit."
+          }
+        }
+      }
+    },
+    "In column %lld, the number %lld can only be in box %lld, so it can be removed from the rest of that box." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ve sloupci %lld může být číslo %lld jen ve čtverci %lld, proto ho lze odstranit ze zbytku tohoto čtverce."
+          }
+        }
+      }
+    },
+    "In column %lld, the number %lld fits in only one cell." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ve sloupci %lld se číslo %lld vejde jen do jednoho pole."
+          }
+        }
+      }
+    },
+    "In column %lld, the numbers %@ can only go in cells %@. All other candidates can be removed from these cells." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ve sloupci %lld mohou být čísla %@ jen v polích %@. Ostatní kandidáty z těchto polí lze odstranit."
+          }
+        }
+      }
+    },
+    "In columns %@, the number %lld can only be in rows %@. It can be removed from all other cells of those rows." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ve sloupcích %@ může být číslo %lld jen v řádcích %@. Ze všech ostatních polí těchto řádků ho lze odstranit."
+          }
+        }
+      }
+    },
+    "In progress" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rozehráno"
+          }
+        }
+      }
+    },
+    "In row %lld, the number %lld can only be in box %lld, so it can be removed from the rest of that box." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "V řádku %lld může být číslo %lld jen ve čtverci %lld, proto ho lze odstranit ze zbytku tohoto čtverce."
+          }
+        }
+      }
+    },
+    "In row %lld, the number %lld fits in only one cell." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "V řádku %lld se číslo %lld vejde jen do jednoho pole."
+          }
+        }
+      }
+    },
+    "In row %lld, the numbers %@ can only go in cells %@. All other candidates can be removed from these cells." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "V řádku %lld mohou být čísla %@ jen v polích %@. Ostatní kandidáty z těchto polí lze odstranit."
+          }
+        }
+      }
+    },
+    "In rows %@, the number %lld can only be in columns %@. It can be removed from all other cells of those columns." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "V řádcích %@ může být číslo %lld jen ve sloupcích %@. Ze všech ostatních polí těchto sloupců ho lze odstranit."
+          }
+        }
+      }
+    },
+    "In two parallel lines, %lld has only two possible cells, and one end of each pair lines up. So %@ or %@ must be %lld – remove it from cells that see both." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ve dvou rovnoběžných řadách má číslo %lld jen dvě možná pole a jeden konec každé dvojice leží v jedné linii. Proto v poli %@ nebo %@ musí být %lld – odstraňte ho z polí, která vidí obě."
+          }
+        }
+      }
+    },
+    "Indigo" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indigová"
+          }
+        }
+      }
+    },
+    "Input mode" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Způsob zadávání"
+          }
+        }
+      }
+    },
+    "Instant" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Okamžitě"
+          }
+        }
+      }
+    },
+    "Jellyfish" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medúza"
+          }
+        }
+      }
+    },
+    "Keep screen on while playing" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nevypínat displej při hraní"
+          }
+        }
+      }
+    },
+    "Keyboard Shortcuts" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klávesové zkratky"
+          }
+        }
+      }
+    },
+    "Language" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jazyk"
+          }
+        }
+      }
+    },
+    "Leave the cells you want to solve empty." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pole, která chcete řešit, nechte prázdná."
+          }
+        }
+      }
+    },
+    "Light" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Světlý"
+          }
+        }
+      }
+    },
+    "Lightning Logic" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blesková logika"
+          }
+        }
+      }
+    },
+    "Like the XY-Wing, but the pivot also holds z. Cells that see all three can't be z." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jako XY-Wing, ale středové pole obsahuje i z. Pole, která vidí všechna tři, nemohou obsahovat z."
+          }
+        }
+      }
+    },
+    "Limit of 3 mistakes" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Limit 3 chyb"
+          }
+        }
+      }
+    },
+    "Lock number" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uzamknout číslo"
+          }
+        }
+      }
+    },
+    "Locked" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zamčeno"
+          }
+        }
+      }
+    },
+    "Locks the number for the cells you tap next" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uzamkne číslo pro pole, na která potom klepnete"
+          }
+        }
+      }
+    },
+    "Long-press a number to lock it, then tap every cell where it belongs. In Settings you can make this the default." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podržením čísla ho uzamknete a pak stačí klepnout na všechna pole, kam patří. V Nastavení můžete tento způsob nastavit jako výchozí."
+          }
+        }
+      }
+    },
+    "Look at box %lld." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podívejte se na čtverec %lld."
+          }
+        }
+      }
+    },
+    "Look at column %lld." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podívejte se na sloupec %lld."
+          }
+        }
+      }
+    },
+    "Look at row %lld." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podívejte se na řádek %lld."
+          }
+        }
+      }
+    },
+    "Look closely at %@." : {
+      "comment" : "First hint for a naked single; the argument is a cell coordinate such as R3C1.",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prohlédněte si pole %@."
+          }
+        }
+      }
+    },
+    "Look for cells with only two candidates." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hledejte pole jen se dvěma kandidáty."
+          }
+        }
+      }
+    },
+    "Looking for solutions." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hledají se řešení."
+          }
+        }
+      }
+    },
+    "Lost" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prohráno"
+          }
+        }
+      }
+    },
+    "Master" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mistrovská"
+          }
+        }
+      }
+    },
+    "Medium" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Střední"
+          }
+        }
+      }
+    },
+    "Mistake checking" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kontrola chyb"
+          }
+        }
+      }
+    },
+    "Mistake Found" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nalezena chyba"
+          }
+        }
+      }
+    },
+    "Mistakes" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chyby"
+          }
+        }
+      }
+    },
+    "Mistakes Found" : {
+      "comment" : "Hint title when several placed numbers are wrong.",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nalezeny chyby"
+          }
+        }
+      }
+    },
+    "Monospaced" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neproporcionální"
+          }
+        }
+      }
+    },
+    "Monthly Habit" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Měsíční zvyk"
+          }
+        }
+      }
+    },
+    "More" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Další"
+          }
+        }
+      }
+    },
+    "More than one solution" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Více než jedno řešení"
+          }
+        }
+      }
+    },
+    "Move the selection" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posunout výběr"
+          }
+        }
+      }
+    },
+    "N / Space" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "N / mezerník"
+          }
+        }
+      }
+    },
+    "Naked Pair" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zjevná dvojice"
+          }
+        }
+      }
+    },
+    "Naked Quad" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zjevná čtveřice"
+          }
+        }
+      }
+    },
+    "Naked Single" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jediný kandidát"
+          }
+        }
+      }
+    },
+    "Naked Triple" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zjevná trojice"
+          }
+        }
+      }
+    },
+    "Needs pairs, triples and careful notes" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyžaduje dvojice, trojice a pečlivé poznámky"
+          }
+        }
+      }
+    },
+    "New Game" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nová hra"
+          }
+        }
+      }
+    },
+    "New record!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nový rekord!"
+          }
+        }
+      }
+    },
+    "New Record!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nový rekord!"
+          }
+        }
+      }
+    },
+    "Next month" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Další měsíc"
+          }
+        }
+      }
+    },
+    "Next Step" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Další krok"
+          }
+        }
+      }
+    },
+    "Night Owl" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Noční sova"
+          }
+        }
+      }
+    },
+    "No checking – spot your mistakes yourself. Every wrong number still counts as a mistake in your results." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bez kontroly – chyby si najděte sami. Každé chybné číslo se ale započítá do výsledků jako chyba."
+          }
+        }
+      }
+    },
+    "No Game" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Žádná hra"
+          }
+        }
+      }
+    },
+    "No Games Yet" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zatím žádné hry"
+          }
+        }
+      }
+    },
+    "No Help Needed" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bez nápovědy"
+          }
+        }
+      }
+    },
+    "No Logical Step Found" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Žádný logický krok"
+          }
+        }
+      }
+    },
+    "No mistakes so far!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zatím bez chyb!"
+          }
+        }
+      }
+    },
+    "No puzzles solved without hints yet." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zatím žádné sudoku vyřešené bez nápovědy."
+          }
+        }
+      }
+    },
+    "No solution" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Žádné řešení"
+          }
+        }
+      }
+    },
+    "None yet" : {
+      "comment" : "VoiceOver value of a best or average time before any game counts towards it.",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zatím žádný"
+          }
+        }
+      }
+    },
+    "Not shown" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nezobrazeno"
+          }
+        }
+      }
+    },
+    "Notes" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poznámky"
+          }
+        }
+      }
+    },
+    "Notes updated." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poznámky upraveny."
+          }
+        }
+      }
+    },
+    "Notes: %@" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poznámky: %@"
+          }
+        }
+      }
+    },
+    "Number first" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nejdřív číslo"
+          }
+        }
+      }
+    },
+    "Number First" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nejdřív číslo"
+          }
+        }
+      }
+    },
+    "Number font" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Písmo čísel"
+          }
+        }
+      }
+    },
+    "OFF" : {
+      "comment" : "Badge on the Notes button when notes mode is off. Keep very short.",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VYP"
+          }
+        }
+      }
+    },
+    "Off" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vypnuto"
+          }
+        }
+      }
+    },
+    "OK" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        }
+      }
+    },
+    "ON" : {
+      "comment" : "Badge on the Notes button when notes mode is on. Keep very short.",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ZAP"
+          }
+        }
+      }
+    },
+    "On a Roll" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na vlně"
+          }
+        }
+      }
+    },
+    "Only numbers repeated in a row, column or box are marked. Every wrong number still counts as a mistake in your results." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Označí se jen čísla, která se opakují v řádku, sloupci nebo čtverci. Každé chybné číslo se ale započítá do výsledků jako chyba."
+          }
+        }
+      }
+    },
+    "Orange" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oranžová"
+          }
+        }
+      }
+    },
+    "Pause" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pozastavit"
+          }
+        }
+      }
+    },
+    "Paused" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pozastaveno"
+          }
+        }
+      }
+    },
+    "Pen and Paper" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tužka a papír"
+          }
+        }
+      }
+    },
+    "Pencil marks, auto notes and unlimited undo." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ruční i automatické poznámky a neomezené vracení tahů."
+          }
+        }
+      }
+    },
+    "Perfect" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfektní"
+          }
+        }
+      }
+    },
+    "Perfect games" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfektní hry"
+          }
+        }
+      }
+    },
+    "Perfect!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfektní!"
+          }
+        }
+      }
+    },
+    "Perfectionist" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfekcionista"
+          }
+        }
+      }
+    },
+    "Pick a number, then tap every cell where it belongs." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyberte číslo a pak klepněte na všechna pole, kam patří."
+          }
+        }
+      }
+    },
+    "Pink" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Růžová"
+          }
+        }
+      }
+    },
+    "Place %lld here" : {
+      "comment" : "VoiceOver value of the cell a hint fills in.",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sem patří %lld"
+          }
+        }
+      }
+    },
+    "Place %lld in %@." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zapište %lld do pole %@."
+          }
+        }
+      }
+    },
+    "Play" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hrát"
+          }
+        }
+      }
+    },
+    "Play This Puzzle" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hrát toto sudoku"
+          }
+        }
+      }
+    },
+    "Playing" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hraní"
+          }
+        }
+      }
+    },
+    "Pointing Candidates" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ukazující kandidáti"
+          }
+        }
+      }
+    },
+    "Previous month" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Předchozí měsíc"
+          }
+        }
+      }
+    },
+    "Progress" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Postup"
+          }
+        }
+      }
+    },
+    "Pure logic, beautifully simple." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Čistá logika, krásně jednoduše."
+          }
+        }
+      }
+    },
+    "Purple" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fialová"
+          }
+        }
+      }
+    },
+    "Puzzle solved" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sudoku vyřešeno"
+          }
+        }
+      }
+    },
+    "Quick Start" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rychlý start"
+          }
+        }
+      }
+    },
+    "R%lldC%lld" : {
+      "comment" : "Short cell coordinate used in hints: R = row, C = column.",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ř%lldS%lld"
+          }
+        }
+      }
+    },
+    "Recent games" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poslední hry"
+          }
+        }
+      }
+    },
+    "Redo" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Znovu"
+          }
+        }
+      }
+    },
+    "Relaxed solving with plenty of clues" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pohodové luštění s mnoha zadanými čísly"
+          }
+        }
+      }
+    },
+    "Remove %@ and more." : {
+      "comment" : "End of a hint that removes more candidates than it lists, e.g. \"Remove 4 from R1C1, 7 from R3C3 and more.\"",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odstraňte %@ a další."
+          }
+        }
+      }
+    },
+    "Remove %@ here" : {
+      "comment" : "VoiceOver value of a cell that loses candidates in a hint, e.g. \"Remove 3, 5 here\".",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odsud odstraňte %@"
+          }
+        }
+      }
+    },
+    "Remove %@." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odstraňte %@."
+          }
+        }
+      }
+    },
+    "Remove Mistake" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odstranit chybu"
+          }
+        }
+      }
+    },
+    "Remove Mistakes" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odstranit chyby"
+          }
+        }
+      }
+    },
+    "Remove notes automatically" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automaticky mazat poznámky"
+          }
+        }
+      }
+    },
+    "Remove the number from %@." : {
+      "comment" : "Hint about a wrong number; the argument is a cell coordinate such as R3C1.",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odstraňte číslo z pole %@."
+          }
+        }
+      }
+    },
+    "Remove the numbers from %@." : {
+      "comment" : "Hint about wrong numbers; the argument lists cell coordinates such as \"R3C1, R5C2\".",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odstraňte čísla z polí %@."
+          }
+        }
+      }
+    },
+    "Reset" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vynulovat"
+          }
+        }
+      }
+    },
+    "Reset all statistics?" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vynulovat všechny statistiky?"
+          }
+        }
+      }
+    },
+    "Reset Statistics" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vynulovat statistiky"
+          }
+        }
+      }
+    },
+    "Reset statistics and achievements" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vynulovat statistiky a úspěchy"
+          }
+        }
+      }
+    },
+    "Reset statistics and achievements?" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vynulovat statistiky a úspěchy?"
+          }
+        }
+      }
+    },
+    "Restart" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Začít znovu"
+          }
+        }
+      }
+    },
+    "Restart this puzzle?" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Začít toto sudoku znovu?"
+          }
+        }
+      }
+    },
+    "Restore default settings" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obnovit výchozí nastavení"
+          }
+        }
+      }
+    },
+    "Restore default settings?" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obnovit výchozí nastavení?"
+          }
+        }
+      }
+    },
+    "Restore Defaults" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obnovit výchozí"
+          }
+        }
+      }
+    },
+    "Resume" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pokračovat"
+          }
+        }
+      }
+    },
+    "Resume a paused game" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pokračovat v pozastavené hře"
+          }
+        }
+      }
+    },
+    "Resumes your unfinished game" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pokračuje v rozehrané hře"
+          }
+        }
+      }
+    },
+    "Reveal a Cell" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odhalit pole"
+          }
+        }
+      }
+    },
+    "Reveal Selected Cell" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odhalit vybrané pole"
+          }
+        }
+      }
+    },
+    "Rounded" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaoblené"
+          }
+        }
+      }
+    },
+    "Row %lld has only one empty cell left. The missing number is %lld." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "V řádku %lld zbývá jediné prázdné pole. Chybí v něm číslo %lld."
+          }
+        }
+      }
+    },
+    "Row %lld, column %lld" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Řádek %lld, sloupec %lld"
+          }
+        }
+      }
+    },
+    "Row, column and box" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Řádek, sloupec a čtverec"
+          }
+        }
+      }
+    },
+    "Rule Conflicts" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jen konflikty"
+          }
+        }
+      }
+    },
+    "Rules & techniques" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pravidla a techniky"
+          }
+        }
+      }
+    },
+    "Second Chance" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Druhá šance"
+          }
+        }
+      }
+    },
+    "Select a cell, then tap a number." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyberte pole a pak klepněte na číslo."
+          }
+        }
+      }
+    },
+    "Select and fill" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Výběr a vyplnění"
+          }
+        }
+      }
+    },
+    "Serif" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Patkové"
+          }
+        }
+      }
+    },
+    "Settings" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nastavení"
+          }
+        }
+      }
+    },
+    "Show Me" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ukázat"
+          }
+        }
+      }
+    },
+    "Show remaining counts" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zobrazit počty zbývajících čísel"
+          }
+        }
+      }
+    },
+    "Show Solution" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zobrazit řešení"
+          }
+        }
+      }
+    },
+    "Show the solution?" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zobrazit řešení?"
+          }
+        }
+      }
+    },
+    "Show timer" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zobrazit čas"
+          }
+        }
+      }
+    },
+    "Simple Coloring" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jednoduché barvení"
+          }
+        }
+      }
+    },
+    "Skyscraper" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mrakodrap"
+          }
+        }
+      }
+    },
+    "Smart notes" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chytré poznámky"
+          }
+        }
+      }
+    },
+    "Solution revealed" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Řešení zobrazeno"
+          }
+        }
+      }
+    },
+    "Solve 10 puzzles." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyřešte 10 sudoku."
+          }
+        }
+      }
+    },
+    "Solve 100 puzzles." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyřešte 100 sudoku."
+          }
+        }
+      }
+    },
+    "Solve 50 puzzles." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyřešte 50 sudoku."
+          }
+        }
+      }
+    },
+    "Solve a Hard or harder puzzle without hints or auto notes." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyřešte těžké nebo obtížnější sudoku bez nápovědy a automatických poznámek."
+          }
+        }
+      }
+    },
+    "Solve a Hard puzzle in under 12 minutes without hints." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyřešte těžké sudoku bez nápovědy za méně než 12 minut."
+          }
+        }
+      }
+    },
+    "Solve a Master puzzle." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyřešte mistrovské sudoku."
+          }
+        }
+      }
+    },
+    "Solve a Medium puzzle in under 6 minutes without hints." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyřešte sudoku střední obtížnosti bez nápovědy za méně než 6 minut."
+          }
+        }
+      }
+    },
+    "Solve a puzzle between 5 and 7 a.m." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyřešte sudoku mezi 5. a 7. hodinou ráno."
+          }
+        }
+      }
+    },
+    "Solve a puzzle between midnight and 4 a.m." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyřešte sudoku mezi půlnocí a 4. hodinou ráno."
+          }
+        }
+      }
+    },
+    "Solve a puzzle on every difficulty." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyřešte sudoku na každé úrovni obtížnosti."
+          }
+        }
+      }
+    },
+    "Solve a puzzle without a single mistake." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyřešte sudoku bez jediné chyby."
+          }
+        }
+      }
+    },
+    "Solve a puzzle without using any hints." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyřešte sudoku bez použití nápovědy."
+          }
+        }
+      }
+    },
+    "Solve a puzzle you entered yourself." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyřešte sudoku, které jste sami zadali."
+          }
+        }
+      }
+    },
+    "Solve an Easy puzzle in under 3 minutes without hints." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyřešte snadné sudoku bez nápovědy za méně než 3 minuty."
+          }
+        }
+      }
+    },
+    "Solve an Expert or Master puzzle with no mistakes and no hints." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyřešte expertní nebo mistrovské sudoku bez chyb a bez nápovědy."
+          }
+        }
+      }
+    },
+    "Solve an Expert puzzle." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyřešte expertní sudoku."
+          }
+        }
+      }
+    },
+    "Solve times" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Časy řešení"
+          }
+        }
+      }
+    },
+    "Solve your first puzzle." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyřešte své první sudoku."
+          }
+        }
+      }
+    },
+    "Solved" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyřešeno"
+          }
+        }
+      }
+    },
+    "Solved in %@" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyřešeno za %@"
+          }
+        }
+      }
+    },
+    "Solved. Time: %@" : {
+      "comment" : "VoiceOver, daily challenge card: the time is spelled out, e.g. 4 minutes, 7 seconds.",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyřešeno. Čas: %@"
+          }
+        }
+      }
+    },
+    "Some numbers repeat" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Některá čísla se opakují"
+          }
+        }
+      }
+    },
+    "Sound & Haptics" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zvuky a haptika"
+          }
+        }
+      }
+    },
+    "Sound effects" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zvukové efekty"
+          }
+        }
+      }
+    },
+    "Standard" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standardní"
+          }
+        }
+      }
+    },
+    "Start a new game from the home screen." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Začněte novou hru na úvodní obrazovce."
+          }
+        }
+      }
+    },
+    "Start a new game?" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Začít novou hru?"
+          }
+        }
+      }
+    },
+    "Start New Game" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Začít novou hru"
+          }
+        }
+      }
+    },
+    "Start Playing" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Začít hrát"
+          }
+        }
+      }
+    },
+    "Statistics" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Statistiky"
+          }
+        }
+      }
+    },
+    "Step %lld of %lld" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Krok %lld z %lld"
+          }
+        }
+      }
+    },
+    "Study the solution, then try a new puzzle." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prostudujte si řešení a zkuste nové sudoku."
+          }
+        }
+      }
+    },
+    "Sudoku" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sudoku"
+          }
+        }
+      }
+    },
+    "Sudoku board" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mřížka sudoku"
+          }
+        }
+      }
+    },
+    "Sudoku is shown in Czech when your device uses Czech, and in English otherwise. If your device has more than one preferred language, you can pick one for this app in the Settings app." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sudoku se zobrazuje česky, pokud vaše zařízení používá češtinu, jinak anglicky. Pokud máte v zařízení nastaveno více preferovaných jazyků, můžete jazyk této aplikace změnit v aplikaci Nastavení."
+          }
+        }
+      }
+    },
+    "Swift Solver" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rychlík"
+          }
+        }
+      }
+    },
+    "Swordfish" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mečoun"
+          }
+        }
+      }
+    },
+    "System" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podle systému"
+          }
+        }
+      }
+    },
+    "Tap a cell and type the numbers from your puzzle, or paste one." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klepněte na pole a zapište čísla ze svého sudoku, nebo celé zadání vložte ze schránky."
+          }
+        }
+      }
+    },
+    "Tap a cell, then tap a number. Tap the same number again to remove it." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klepněte na pole a pak na číslo. Dalším klepnutím na stejné číslo ho odstraníte."
+          }
+        }
+      }
+    },
+    "Teal" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tyrkysová"
+          }
+        }
+      }
+    },
+    "Techniques" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Techniky"
+          }
+        }
+      }
+    },
+    "The board is full, but something's not right." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mřížka je plná, ale něco nesedí."
+          }
+        }
+      }
+    },
+    "The game will end and count as not solved." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hra skončí a započítá se jako nevyřešená."
+          }
+        }
+      }
+    },
+    "The game will end and count as not solved. If you play this daily challenge again, it will count as solved with hints." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hra skončí a započítá se jako nevyřešená. Když tuto denní výzvu zahrajete znovu, započítá se jako vyřešená s nápovědou."
+          }
+        }
+      }
+    },
+    "The Goal" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cíl hry"
+          }
+        }
+      }
+    },
+    "The last empty cell of a row, column or box gets the only missing number." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do posledního prázdného pole v řádku, sloupci nebo čtverci patří jediné chybějící číslo."
+          }
+        }
+      }
+    },
+    "The notes in %lld highlighted cells are missing the correct number." : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "The notes in the highlighted cell are missing the correct number."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "The notes in %lld highlighted cells are missing the correct number."
+                }
+              }
+            }
+          }
+        },
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "V poznámkách zvýrazněného pole chybí správné číslo."
+                }
+              },
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "V poznámkách %lld zvýrazněných polí chybí správné číslo."
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "V poznámkách %lld zvýrazněného pole chybí správné číslo."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "V poznámkách %lld zvýrazněných polí chybí správné číslo."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "The pivot %@ holds %@. Whatever it turns out to be, %lld ends up in the pivot or in one of the wings %@ and %@. Cells that see all three can't be %lld." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Středové pole %@ má kandidáty %@. Ať v něm bude kterýkoli z nich, číslo %lld skončí ve středovém poli nebo v jednom z křídel %@ a %@. Pole, která vidí všechna tři, nemohou obsahovat %lld."
+          }
+        }
+      }
+    },
+    "The pivot %@ is either %lld or %lld. Either way, one of the wings %@ or %@ becomes %lld, so %lld can be removed from cells that see both wings." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ve středovém poli %@ je buď %lld, nebo %lld. V obou případech bude v jednom z křídel %@ a %@ číslo %lld, takže %lld lze odstranit z polí, která vidí obě křídla."
+          }
+        }
+      }
+    },
+    "The strong links of %lld split its cells into two colors, and one color must be right. Cells that see both colors can't be %lld." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Silné vazby čísla %lld rozdělí pole s tímto kandidátem do dvou barev a jedna z barev musí být správná. Pole, která vidí obě barvy, nemohou obsahovat %lld."
+          }
+        }
+      }
+    },
+    "The strong links of %lld split its cells into two colors. Two cells of the same color see each other, so that color is wrong and %lld can be removed from all its cells." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Silné vazby čísla %lld rozdělí pole s tímto kandidátem do dvou barev. Dvě pole stejné barvy se navzájem vidí, takže tato barva je chybná a %lld lze odstranit ze všech jejích polí."
+          }
+        }
+      }
+    },
+    "The X-Wing idea extended to four rows and four columns." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Princip X-Wingu rozšířený na čtyři řádky a čtyři sloupce."
+          }
+        }
+      }
+    },
+    "The X-Wing idea extended to three rows and three columns." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Princip X-Wingu rozšířený na tři řádky a tři sloupce."
+          }
+        }
+      }
+    },
+    "This puzzle needs a technique beyond the hint engine. You can reveal a cell instead." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toto sudoku vyžaduje techniku, kterou nápověda nezná. Můžete místo toho odhalit pole."
+          }
+        }
+      }
+    },
+    "Three cells of a row, column or box that together contain only three numbers." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tři pole v řádku, sloupci nebo čtverci, která dohromady obsahují jen tři čísla."
+          }
+        }
+      }
+    },
+    "Three numbers that fit only in the same three cells of a row, column or box." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tři čísla, která se v řádku, sloupci nebo čtverci vejdou jen do stejných tří polí."
+          }
+        }
+      }
+    },
+    "Time" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Čas"
+          }
+        }
+      }
+    },
+    "Today" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dnes"
+          }
+        }
+      }
+    },
+    "Today's puzzle" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dnešní sudoku"
+          }
+        }
+      }
+    },
+    "Toggle notes" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Přepnout poznámky"
+          }
+        }
+      }
+    },
+    "Toggles the note in the selected cell" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Přepne poznámku ve vybraném poli"
+          }
+        }
+      }
+    },
+    "Turn on Notes to jot down candidates. Auto Notes in the menu fills them in for you." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zapněte Poznámky a zapisujte si kandidáty. Automatické poznámky v menu je vyplní za vás."
+          }
+        }
+      }
+    },
+    "Two cells of a row, column or box with the same two candidates. Those numbers can be removed from its other cells." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dvě pole se stejnými dvěma kandidáty v jednom řádku, sloupci nebo čtverci. Tato čísla lze ze zbytku řádku, sloupce či čtverce odstranit."
+          }
+        }
+      }
+    },
+    "Two identical two-candidate cells connected by a strong link on one of their numbers: a row, column or box where it has only two places." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dvě pole se stejnou dvojicí kandidátů, propojená silnou vazbou jednoho z těchto čísel: řádkem, sloupcem nebo čtvercem, kde má jen dvě místa."
+          }
+        }
+      }
+    },
+    "Two numbers that fit only in the same two cells of a row, column or box. Other candidates can be removed from those cells." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dvě čísla, která se v řádku, sloupci nebo čtverci vejdou jen do stejných dvou polí. Ostatní kandidáty z těchto polí lze odstranit."
+          }
+        }
+      }
+    },
+    "Two parallel lines where a number has just two places, with one end of each lined up. One of the other ends must hold the number." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dvě rovnoběžné řady, v nichž má číslo jen dvě místa a jeden konec každé dvojice leží v jedné linii. Číslo pak musí být na jednom ze zbývajících dvou konců."
+          }
+        }
+      }
+    },
+    "Undo" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odvolat"
+          }
+        }
+      }
+    },
+    "Undo and erase" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vracení a mazání"
+          }
+        }
+      }
+    },
+    "Undo as many steps as you like. Erase clears a number or the notes of a cell." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tahy můžete vracet bez omezení. Tlačítko Smazat odstraní z pole číslo nebo poznámky."
+          }
+        }
+      }
+    },
+    "Undo the last mistake and keep going" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vrátit chybný tah a hrát dál"
+          }
+        }
+      }
+    },
+    "Unique Rectangle" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obdélník jednoznačnosti"
+          }
+        }
+      }
+    },
+    "Unless %@ or %@ is %lld, the four highlighted cells could swap their numbers and the puzzle would have two solutions. So one of them is %lld, and cells that see both can't be %lld." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pokud v poli %@ ani v %@ nebude %lld, mohla by si čtyři zvýrazněná pole prohodit čísla a sudoku by mělo dvě řešení. Jedno z těchto dvou polí tedy musí obsahovat %lld a pole, která vidí obě, nemohou obsahovat %lld."
+          }
+        }
+      }
+    },
+    "Unlock number" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odemknout číslo"
+          }
+        }
+      }
+    },
+    "Unlocked" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odemčeno"
+          }
+        }
+      }
+    },
+    "Unlocks the number" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odemkne číslo"
+          }
+        }
+      }
+    },
+    "Unstoppable" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nezastavitelná série"
+          }
+        }
+      }
+    },
+    "Valid puzzle · %@" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Platné sudoku · %@ obtížnost"
+          }
+        }
+      }
+    },
+    "Valid puzzle · Extreme" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Platné sudoku · Extrémní obtížnost"
+          }
+        }
+      }
+    },
+    "Version" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verze"
+          }
+        }
+      }
+    },
+    "W-Wing" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "W-Wing"
+          }
+        }
+      }
+    },
+    "Warming Up" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rozehřívání"
+          }
+        }
+      }
+    },
+    "Weekly Ritual" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Týdenní rituál"
+          }
+        }
+      }
+    },
+    "Welcome to Sudoku" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vítejte v Sudoku"
+          }
+        }
+      }
+    },
+    "Well Done!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dobrá práce!"
+          }
+        }
+      }
+    },
+    "Well-Rounded" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Všestrannost"
+          }
+        }
+      }
+    },
+    "When every unsolved cell but one has exactly two candidates, the extra candidate of that cell is the answer." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Když mají všechna nevyřešená pole kromě jednoho přesně dva kandidáty, patří do tohoto jednoho pole jeho přebývající kandidát."
+          }
+        }
+      }
+    },
+    "Win 10 games in a row." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyhrajte 10 her po sobě."
+          }
+        }
+      }
+    },
+    "Win 5 games in a row." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyhrajte 5 her po sobě."
+          }
+        }
+      }
+    },
+    "Win rate" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Úspěšnost"
+          }
+        }
+      }
+    },
+    "With instant checking, wrong numbers turn red. Three mistakes end the game unless you turn the limit off – but you get one second chance." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Při okamžité kontrole se chybná čísla zbarví červeně. Tři chyby ukončí hru, pokud limit nevypnete – jednu druhou šanci ale dostanete."
+          }
+        }
+      }
+    },
+    "Works completely offline. No ads, no accounts, no tracking – your games and statistics stay on this device." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Funguje zcela offline. Žádné reklamy, účty ani sledování – vaše hry a statistiky zůstávají v tomto zařízení."
+          }
+        }
+      }
+    },
+    "Wrong number." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chybné číslo."
+          }
+        }
+      }
+    },
+    "Wrong number. Mistake %lld of %lld." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chybné číslo. Chyba %lld z %lld."
+          }
+        }
+      }
+    },
+    "Wrong numbers turn red right away and count as mistakes." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chybná čísla se hned zbarví červeně a počítají se jako chyby."
+          }
+        }
+      }
+    },
+    "X-Chain" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "X-řetězec"
+          }
+        }
+      }
+    },
+    "X-Wing" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "X-Wing"
+          }
+        }
+      }
+    },
+    "XY-Chain" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "XY-řetězec"
+          }
+        }
+      }
+    },
+    "XY-Wing" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "XY-Wing"
+          }
+        }
+      }
+    },
+    "XYZ-Wing" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "XYZ-Wing"
+          }
+        }
+      }
+    },
+    "You've made %lld mistakes." : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "You've made %lld mistake."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "You've made %lld mistakes."
+                }
+              }
+            }
+          }
+        },
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Udělali jste %lld chybu."
+                }
+              },
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Udělali jste %lld chyby."
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Udělali jste %lld chyby."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Udělali jste %lld chyb."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Your game history, best times, daily challenge results and achievements will be permanently deleted." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historie her, nejlepší časy, výsledky denních výzev a úspěchy budou trvale smazány."
+          }
+        }
+      }
+    },
+    "Your game will count as lost, and its second chance will be gone." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hra se započítá jako prohraná a o druhou šanci přijdete."
+          }
+        }
+      }
+    },
+    "Your last %lld puzzles solved without hints" : {
+      "localizations" : {
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Poslední sudoku vyřešené bez nápovědy"
+                }
+              },
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Poslední %lld sudoku vyřešená bez nápovědy"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Posledních %lld sudoku vyřešeného bez nápovědy"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Posledních %lld sudoku vyřešených bez nápovědy"
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Your last puzzle solved without hints"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Your last %lld puzzles solved without hints"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Your Own Puzzle" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vlastní zadání"
+          }
+        }
+      }
+    },
+    "Your unfinished game will be lost and counted as not completed." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rozehraná hra bude ztracena a započítá se jako nedokončená."
+          }
+        }
+      }
+    },
+    "↩ / Space" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "↩ / mezerník"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

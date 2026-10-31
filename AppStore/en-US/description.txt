@@ -1,0 +1,41 @@
+Sudoku that teaches you how to solve it — and never gets in your way. No ads, no in-app purchases, no account and no internet: every puzzle, every hint and every feature is there from the first launch, and nothing interrupts a game.
+
+HINTS THAT TEACH, NOT JUST TELL
+Stuck? A hint first points you in the right direction and lets you find the move yourself. Tap Show Me and it explains the exact deduction step by step: the cells it is about are highlighted, the candidates that matter are colored and chains are drawn on the board. 24 techniques, from Hidden Singles and Naked Pairs to X-Wing, Swordfish, XY-Wing, Unique Rectangles and XY-Chains. Hints also point out a wrong number, or notes that no longer hold the right digit, before they send you any further.
+
+FIVE HONEST LEVELS
+Easy, Medium, Hard, Expert and Master are graded by the techniques a person needs to solve the puzzle, not just by how many numbers are given. Every Medium puzzle really needs a Medium technique, and every Expert puzzle an Expert one. Every puzzle has exactly one solution and can be solved by logic alone — no guessing — and new ones are made on your device for as long as you keep playing.
+
+A DAILY CHALLENGE
+• A new puzzle every day, the same one for everyone, getting harder through the week
+• Play each day's puzzle on the day to grow your streak, and catch up on missed days in a calendar of the last two years
+
+PLAY YOUR WAY
+• Pencil marks and auto notes — a number you place clears itself from the notes in its row, column and box
+• Unlimited undo and redo
+• Cell first or number first — long-press a number to lock it, then tap every cell where it belongs
+• Instant mistake checking with an optional limit of three mistakes and one second chance, rule conflicts only, or no checking at all
+• Hide the timer, highlight the row, column and box, see how many of each number are left
+
+A PUZZLE FROM THE NEWSPAPER?
+Type it in or paste it. The app checks that it has exactly one solution and tells you how hard it is — and when you get stuck, the hints work on it too, as long as it needs nothing beyond their 24 techniques.
+
+STATISTICS AND ACHIEVEMENTS
+Games played, win rate, best and average times, perfect games and streaks for every level, a chart of your solve times and your recent games — plus 22 achievements to unlock. Best and average times only count puzzles solved without hints.
+
+MAKE IT YOURS
+Light, dark or system appearance, 8 accent colors and 4 number fonts. Sound effects and haptics, a wave across the board for every finished row, column and box, and confetti for the last number. Leave mid-game and the puzzle is waiting exactly where you left it.
+
+PHONE, TABLET AND KEYBOARD
+Portrait and landscape on iPhone and iPad, and keyboard shortcuts with a hardware keyboard: arrows to move, numbers to fill, N for notes, H for a hint, ⌘Z to undo.
+
+BUILT FOR EVERYONE
+VoiceOver reads every cell and every control, so a whole game can be played by ear. Dynamic Type and Reduce Motion are supported; around the board, text grows up to the first accessibility size.
+
+FAIR PLAY
+• No ads, no in-app purchases, no subscriptions
+• No account, no sign-in, no tracking, no data collected
+• Works completely offline — there is no networking code in the app
+• English and Czech, iPhone and iPad
+
+Just sudoku. Nothing else.

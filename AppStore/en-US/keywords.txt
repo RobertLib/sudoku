@@ -1,0 +1,1 @@
+master,solver,beginner,classic,dark,mode,wifi,timer,senior,tutor,brain,logic,number,game,expert,calm

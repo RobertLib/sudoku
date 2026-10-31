@@ -1,0 +1,41 @@
+Sudoku, které vás naučí luštit – a nikdy vám nebude překážet. Žádné reklamy, žádné nákupy v aplikaci, žádný účet a žádný internet: všechna sudoku, všechny nápovědy a všechny funkce máte od prvního spuštění a nic vás uprostřed hry nevyruší.
+
+NÁPOVĚDY, KTERÉ UČÍ, NE JEN RADÍ
+Zasekli jste se? Nápověda vás nejdřív navede správným směrem a nechá vás tah najít sami. Klepněte na Ukázat a nápověda vám krok za krokem vysvětlí přesnou úvahu: pole, o která jde, se zvýrazní, důležití kandidáti se obarví a řetězce se nakreslí přímo do mřížky. 24 technik, od jediného místa a zjevné dvojice po X-Wing, mečouna, XY-Wing, obdélník jednoznačnosti a XY-řetězce. Nápověda vás také upozorní na chybné číslo nebo na poznámky, ve kterých už správné číslo chybí – dřív, než vás pošle dál.
+
+PĚT POCTIVÝCH ÚROVNÍ
+Snadná, střední, těžká, expertní a mistrovská obtížnost se neřídí jen počtem zadaných čísel, ale hlavně technikami, které člověk k vyřešení potřebuje. Každé sudoku střední obtížnosti opravdu vyžaduje techniku střední úrovně a každé expertní sudoku techniku expertní. Každé sudoku má právě jedno řešení, vyřešíte ho čistou logikou bez hádání a nová vznikají přímo ve vašem zařízení, dokud vás hra baví.
+
+DENNÍ VÝZVA
+• Každý den nové sudoku, pro všechny stejné, během týdne stále těžší
+• Hrajte každý den včas a prodlužujte svou sérii, zmeškané dny dohoňte v kalendáři za poslední dva roky
+
+HRAJTE PO SVÉM
+• Ruční i automatické poznámky – zapsané číslo se samo smaže z poznámek ve svém řádku, sloupci i čtverci
+• Neomezené vracení i opakování tahů
+• Nejdřív pole, nebo nejdřív číslo – číslo uzamknete podržením a pak už jen klepete na všechna pole, kam patří
+• Okamžitá kontrola chyb s volitelným limitem tří chyb a jednou druhou šancí, kontrola jen konfliktů s pravidly, nebo úplně bez kontroly
+• Skrytí času, zvýraznění řádku, sloupce a čtverce a přehled, kolikrát které číslo ještě chybí
+
+SUDOKU Z NOVIN?
+Přepište ho nebo vložte ze schránky. Aplikace ověří, že má právě jedno řešení, a řekne vám, jak je těžké – a když se zaseknete, nápovědy fungují i na něm, pokud nepotřebuje víc než jejich 24 technik.
+
+STATISTIKY A ÚSPĚCHY
+Odehrané hry, úspěšnost, nejlepší a průměrné časy, perfektní hry a série pro každou úroveň, graf vašich časů a poslední hry – a k tomu 22 úspěchů k odemčení. Do nejlepších a průměrných časů se počítají jen sudoku vyřešená bez nápovědy.
+
+PODLE VAŠEHO GUSTA
+Světlý, tmavý nebo systémový vzhled, 8 barev a 4 písma čísel. Zvuky a haptika, vlna přes mřížku za každý dokončený řádek, sloupec a čtverec a konfety za poslední číslo. Odejdete uprostřed hry a sudoku na vás počká přesně tam, kde jste skončili.
+
+TELEFON, TABLET A KLÁVESNICE
+Hra na výšku i na šířku na iPhonu i iPadu. S hardwarovou klávesnicí fungují klávesové zkratky: šipky pro pohyb, čísla pro zápis, N pro poznámky, H pro nápovědu a ⌘Z pro krok zpět.
+
+PRO VŠECHNY
+VoiceOver přečte každé pole i každý ovládací prvek, takže se dá celá hra hrát po sluchu. Aplikace podporuje dynamickou velikost textu (kolem mřížky jen do první z větších velikostí) i volbu Omezit pohyb.
+
+FÉROVĚ
+• Žádné reklamy, žádné nákupy v aplikaci, žádné předplatné
+• Žádný účet, žádné přihlášení, žádné sledování, žádný sběr dat
+• Funguje zcela offline – aplikace neobsahuje žádný síťový kód
+• Česky a anglicky, pro iPhone i iPad
+
+Prostě sudoku. Nic jiného.
